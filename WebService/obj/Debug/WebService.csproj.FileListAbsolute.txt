@@ -1,0 +1,28 @@
+C:\Users\Jéssica Mota\Desktop\WebService\WebService\bin\Debug\WebService.exe.config
+C:\Users\Jéssica Mota\Desktop\WebService\WebService\bin\Debug\WebService.exe
+C:\Users\Jéssica Mota\Desktop\WebService\WebService\bin\Debug\WebService.pdb
+C:\Users\Jéssica Mota\Desktop\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Jéssica Mota\Desktop\WebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Mota\Desktop\WebService\WebService\obj\Debug\WebService.exe
+C:\Users\Jéssica Mota\Desktop\WebService\WebService\obj\Debug\WebService.pdb
+C:\Users\Thaís\Desktop\WebService - SO\WebService\WebService\bin\Debug\WebService.exe.config
+C:\Users\Thaís\Desktop\WebService - SO\WebService\WebService\bin\Debug\WebService.exe
+C:\Users\Thaís\Desktop\WebService - SO\WebService\WebService\bin\Debug\WebService.pdb
+C:\Users\Thaís\Desktop\WebService - SO\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Thaís\Desktop\WebService - SO\WebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Desktop\WebService - SO\WebService\WebService\obj\Debug\WebService.exe
+C:\Users\Thaís\Desktop\WebService - SO\WebService\WebService\obj\Debug\WebService.pdb
+C:\Users\1077335\Desktop\WebService\WebService\WebService\bin\Debug\WebService.exe.config
+C:\Users\1077335\Desktop\WebService\WebService\WebService\bin\Debug\WebService.exe
+C:\Users\1077335\Desktop\WebService\WebService\WebService\bin\Debug\WebService.pdb
+C:\Users\1077335\Desktop\WebService\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\1077335\Desktop\WebService\WebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\1077335\Desktop\WebService\WebService\WebService\obj\Debug\WebService.exe
+C:\Users\1077335\Desktop\WebService\WebService\WebService\obj\Debug\WebService.pdb
+C:\Users\Thaís\Desktop\WebService\WebService\WebService\bin\Debug\WebService.exe.config
+C:\Users\Thaís\Desktop\WebService\WebService\WebService\bin\Debug\WebService.exe
+C:\Users\Thaís\Desktop\WebService\WebService\WebService\bin\Debug\WebService.pdb
+C:\Users\Thaís\Desktop\WebService\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Thaís\Desktop\WebService\WebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Thaís\Desktop\WebService\WebService\WebService\obj\Debug\WebService.exe
+C:\Users\Thaís\Desktop\WebService\WebService\WebService\obj\Debug\WebService.pdb
